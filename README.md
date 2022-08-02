@@ -20,6 +20,9 @@
 > [-] Once all modules have been installed LOG-YY will Auto-Launch !
 > [-] Have FUN !
 
+## Main Theme
+> ![log-yy main_menu](https://user-images.githubusercontent.com/109160786/182341685-12cf7f94-79ac-444e-9cd7-8a200a521c39.jpg) 
+
 
 **_____________________________________________________!!!!!!!    PROXY LIST (DONT TOUCH)     !!!!!!!____________________________________________________________________________________________**
 
