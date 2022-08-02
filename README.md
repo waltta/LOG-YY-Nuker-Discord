@@ -1,5 +1,6 @@
 ![LOG-YY-Nuker Banner2](https://user-images.githubusercontent.com/109160786/182344001-a5220958-21db-4b88-a004-1a09b8f5b297.png)
 
+---
 
 
    ### ★  !! DON'T WORRY IF THE INSTALLATION IS LONGER IT'S NORMAL !!  ★ 
@@ -8,13 +9,13 @@
 
 ### > ★ Requirements ★
 
-> [1] **Windows 10 / 11**
-> [2] **Download Python (Only v3,9+) :** [v3.10](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) **or** [v3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
+* ` [ Windows 10 / 11 ]`
+* ` Download Python (Only v3,9+) : [v3.10](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) OR [v3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)`
 
 ### > ★   O+   ★
-> [3] **200% Safe!**
-> [4] **Having FUN EVERY MINUTES**
-> [5] **If you have question, bugs, report, My Discord : #waltta#6182**
+* ` **200% Safe!**`
+* ` **Having FUN EVERY MINUTES**`
+* ` **If you have question, bugs, report, My Discord : #waltta#6182**`
 
 > !?!?!? **DO NOT** Installing LOG-YY-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.** !?!?!?
 > Download HERE ONLY (or my website) : https://github.com/waltta/LOG-YY-Nuker-Discord
@@ -22,10 +23,10 @@
 
 #### > ★  Installation  ★
 
-> [1] Extract LOG-YY-Nuker.rar
-> [2] Launch "setup.bat" and wait, it will be install all modules required for LOG-YY Nuker work !
-> [3] Once all modules have been installed LOG-YY will Auto-Launch !
-> [4] Have FUN !
+* ` Extract LOG-YY-Nuker.rar`
+* ` Launch "setup.bat" and wait, it will be install all modules required for LOG-YY Nuker work !`
+* ` Once all modules have been installed LOG-YY will Auto-Launch !`
+* ` Have FUN !`
 
 ## Main Theme
 > ![log-yy main_menu](https://user-images.githubusercontent.com/109160786/182341685-12cf7f94-79ac-444e-9cd7-8a200a521c39.jpg) 
