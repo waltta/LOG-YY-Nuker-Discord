@@ -2,7 +2,7 @@
 > **__  !! DON'T WORRY IF THE INSTALLATION ARE LONGER IT'S NORMAL !!  __** < 
 
 
-## REQUIREMENTS
+### REQUIREMENTS
 
 > [-] v **Windows 10 / 11**
 > [-] v **Download Python (Only v3,9+) :** [v3.10](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) **or** [v3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
@@ -13,7 +13,7 @@
 > !?!?!? **DO NOT** Installing LOG-YY-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.** !?!?!?
 > Download HERE ONLY (or my website) : https://github.com/waltta/LOG-YY-Nuker-Discord
 
-## Installation
+### Installation
 
 > [-] Extract LOG-YY-Nuker.rar
 > [-] Launch "setup.bat" and wait, it will be install all modules required for LOG-YY Nuker work !
