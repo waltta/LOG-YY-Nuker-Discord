@@ -1,4 +1,4 @@
->>>>>>>>>>>>>>>> **__  DON'T WORRY IF THE INSTALLATION ARE LONGER IT'S NORMAL  __** <<<<<<<<<<<<<<<<<<<<<<<
+>>> **__  DON'T WORRY IF THE INSTALLATION ARE LONGER IT'S NORMAL  __** <<<
 
 
 **REQUIREMENTS**:
