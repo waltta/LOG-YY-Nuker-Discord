@@ -2,7 +2,7 @@
 
 
 
-    ### ★  !! DON'T WORRY IF THE INSTALLATION IS LONGER IT'S NORMAL !!  ★ 
+   ### ★  !! DON'T WORRY IF THE INSTALLATION IS LONGER IT'S NORMAL !!  ★ 
 
 ════════════════════════════════════════════════════════════════════════════════
 
