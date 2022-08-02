@@ -96,7 +96,7 @@ except:
 ```
 
 <h1 align="center">
-  <a id="top"></a>✨ Thanks For Using LOG-YY-Nuker! ✨
+  <a id="top"></a>👁 Thanks For Using LOG-YY-Nuker! 👁
 </h1>
 
 @waltta#6821 
