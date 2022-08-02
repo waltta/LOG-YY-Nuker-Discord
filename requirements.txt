@@ -2,7 +2,6 @@ python-http-client
 2captcha-python
 beautifulsoup4
 pyinstaller
-utilities
 pystyle
 pylibcheck
 pyperclip
