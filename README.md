@@ -2,7 +2,7 @@
 
 
 
-☆ **__  !! DON'T WORRY IF THE INSTALLATION ARE LONGER IT'S NORMAL !!  __** ☆ 
+☆ **  !! DON'T WORRY IF THE INSTALLATION IS LONGER IT'S NORMAL !!  ** ☆ 
 
 
 ### > ☆ Requirements ☆
