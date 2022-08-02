@@ -10,6 +10,7 @@
 > [-] v **If you have question, bugs, report, My Discord : #waltta#6182**
 
 > !?!?!? **DO NOT** Installing LOG-YY-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.** !?!?!?
+> Download HERE ONLY (or my website) : https://github.com/waltta/LOG-YY-Nuker-Discord
 
 ## Installation
 
