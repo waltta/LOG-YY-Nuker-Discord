@@ -1,4 +1,4 @@
-# Developper : waltta#6821 | 
+# Developper : waltta#6821 | https://github.com/waltta/LOG-YY-Nuker-Discord
 # LOG-YY Discord Nuker / Multi Tool©
 # Copyright © 2022 waltta#6821 
 # Copyright © LOG-YY-Nuke
@@ -16,6 +16,6 @@ def DmDeleter(token, channels):
             requests.delete(f'https://discord.com/api/v7/channels/'+channel['id'],
             proxies=proxy(),
             headers=getheaders(token))
-            print(f"[{Fore.LIGHTGREEN_EX}>{Fore.RESET}] Deleted DM: {Fore.WHITE}"+channel['id']+Fore.RESET)
+            print(f"[{Fore.LIGHTGREEN_EX}>{Fore.RESET}] Deleted DM : {Fore.WHITE}"+channel['id']+Fore.RESET)
         except Exception as e:
             print(f"\nERROR | {e}")

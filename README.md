@@ -35,9 +35,8 @@
 </p>
 
 
-## **★    MY LINKS     ★**
+## **★    PROXIES SCRAPING     ★**
 
-https://linktr.ee/waltta1
 
 
 <h1 align="center">

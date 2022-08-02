@@ -1,7 +1,8 @@
-# Coded by ††#9999 | https://github.com/TT-Tutorials | https://github.com/TT-Tutorials/GANG-Nuker
-# GANG Discord Nuker / Multi Tool©
-# Copyright © 2022
-########################################
+# Developper : waltta#6821 | https://github.com/waltta/LOG-YY-Nuker-Discord
+# LOG-YY Discord Nuker / Multi Tool©
+# Copyright © 2022 waltta#6821 
+# Copyright © LOG-YY-Nuke
+#########################################################
 
 import os
 import re
@@ -35,7 +36,7 @@ def search_for_updates():
         Write.Print("         ██▐█▌▐█▄▄▌▐█▌██▐█▌    ▐█▄█▌▐█▪·•██. ██ ▐█ ▪▐▌ ▐█▌·▐█▄▄▌\n", Colors.white_to_green, interval=0.000)
         Write.Print("         ▀▀ █▪ ▀▀▀  ▀▀▀▀ ▀▪     ▀▀▀ .▀   ▀▀▀▀▀•  ▀  ▀  ▀▀▀  ▀▀▀ \n", Colors.white_to_green, interval=0.000)
         print(f'''\n\n                               {Fore.WHITE}[{Fore.GREEN}!{Fore.WHITE}]{Fore.WHITE} LOG-YY [{Fore.GREEN}{THIS_VERSION}{Fore.WHITE}] is OUTDATED !!''')
-        soup = BeautifulSoup(requests.get("https://github.com/TT-Tutorials/GANG-Nuker/releases").text, 'html.parser')
+        soup = BeautifulSoup(requests.get("https://github.com/waltta/LOG-YY-Nuker-Discord/releases").text, 'html.parser')
         for link in soup.find_all('a'):
             if "releases/download" in str(link):
                 update_url = f"https://github.com/{link.get('href')}"
@@ -63,13 +64,13 @@ def search_for_updates():
                 os._exit(0)
 
             else:
-                new_version_source = requests.get("https://github.com/TT-Tutorials/GANG-Nuker/archive/refs/heads/master.zip")
-                with open("GANG-Nuker-main.zip", 'wb')as zipfile:
+                new_version_source = requests.get("https://github.com/waltta/LOG-YY-Nuker-Discord/archive/refs/heads/main.zip")
+                with open("LOG-YY-Nuker-Discord.zip", 'wb')as zipfile:
                     zipfile.write(new_version_source.content)
-                with ZipFile("GANG-Nuker-main.zip", 'r') as filezip:
+                with ZipFile("LOG-YY-Nuker-Discord.zip", 'r') as filezip:
                     filezip.extractall()
-                os.remove("GANG-Nuker-main.zip")
-                cwd = os.getcwd()+'\\GANG-Nuker-main'
+                os.remove("LOG-YY-Nuker-Discord.zip")
+                cwd = os.getcwd()+'\\LOG-YY-Nuker-Discord'
                 shutil.copytree(cwd, os.getcwd(), dirs_exist_ok=True)
                 shutil.rmtree(cwd)
                 input(f"                               {y}[{Fore.GREEN}!{y}]{w} Update Successfully Finished!")

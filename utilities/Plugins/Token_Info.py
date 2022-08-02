@@ -1,4 +1,4 @@
-# Developper : waltta#6821 | 
+# Developper : waltta#6821 | https://github.com/waltta/LOG-YY-Nuker-Discord
 # LOG-YY Discord Nuker / Multi Tool©
 # Copyright © 2022 waltta#6821 
 # Copyright © LOG-YY-Nuke

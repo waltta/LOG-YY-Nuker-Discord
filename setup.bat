@@ -6,4 +6,4 @@ start /b "" cmd /c del "%~f0"&exit /b
 
 ------------------------------------------------------
 
-"LOG-YY Nuker!"
+"https://github.com/waltta/LOG-YY-Nuker-Discord"

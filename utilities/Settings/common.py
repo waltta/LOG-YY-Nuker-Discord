@@ -1,4 +1,4 @@
-# Developper : waltta#6821 | 
+# Developper : waltta#6821 | https://github.com/waltta/LOG-YY-Nuker-Discord
 # LOG-YY Discord Nuker / Multi Tool©
 # Copyright © 2022 waltta#6821 
 # Copyright © LOG-YY-Nuke
@@ -42,7 +42,7 @@ counttokens = len(open('tokens.txt').readlines())
 os.system("title LOG-YY Nuker / made by waltta#6821")
 THIS_VERSION = "1.0.0"
 
-def GANGLIST():
+def YYLIST():
   os.system('cls' if os.name=='nt' else 'clear')
   global yeslist
   yeslist = ["yes", "y", "yer", "yeah","yessir","ye","okay","yep","yea","ok","k","yh","sure"]
@@ -393,11 +393,11 @@ def installPackage(dependencies):
 def proxy_scrape(): 
     proxieslog = []
     setTitle("Scraping Proxies")
-    os.system("title Scraping Proxies Please wait / LOG-YY Nuker")
+    os.system("title Scraping Proxies PLEASE WAIT / LOG-YY Nuker")
     startTime = time.time()
-    temp = getTempDir()+"\\cmdlok_proxies"                               
-    Write.Print("                                          Scraping Proxies For You | Please Wait. . . \n", Colors.white_to_green, interval=0.001)
-    Write.Print("════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════", Colors.white_to_green, interval=0.005)
+    temp = getTempDir()+"\\logyy_proxies"                               
+    Write.Print("                                  Scraping Proxies For You | Please Wait a moment. . . \n", Colors.white_to_green, interval=0.001)
+    Write.Print("════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════", Colors.white_to_green, interval=0.007)
 
     def fetchProxies(url, custom_regex):
         global proxylist
@@ -451,7 +451,7 @@ def proxy_scrape():
     print(f"\n{Fore.WHITE}Time: {Fore.GREEN}{execution_time}ms\n{Fore.RESET}Successfully Scraped:{Fore.GREEN}{len(proxies): >5}")
 
 def proxy():
-    temp = getTempDir()+"\\cmdlok_proxies"
+    temp = getTempDir()+"\\logyy_proxies"
     if os.stat(temp).st_size == 0:
         proxy_scrape()
     proxies = open(temp).read().split('\n')

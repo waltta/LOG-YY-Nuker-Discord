@@ -1,4 +1,4 @@
-# Developper : waltta#6821 | 
+# Developper : waltta#6821 | https://github.com/waltta/LOG-YY-Nuker-Discord
 # LOG-YY Discord Nuker / Multi Tool©
 # Copyright © 2022 waltta#6821 
 # Copyright © LOG-YY-Nuke
@@ -16,7 +16,7 @@ from utilities.Settings.common import SlowPrint, getheaders, proxy
 
 ###############################################################################+
 
-def GANGNUKER_START(token, Server_Name, message_Content):
+def LOGYYNUKER_START(token, Server_Name, message_Content):
     if threading.active_count() <= 100:
         t = threading.Thread(target=CustomSeizure, args=(token, ))
         t.start()
