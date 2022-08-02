@@ -269,9 +269,9 @@ def spammer():
     Write.Print("                                     ██║     ██╔═══██╗██╔════╝      ╚██╗ ██╔╝╚██╗ ██╔╝  \n", Colors.white_to_green, interval=0.000)
     Write.Print("                                     ██║     ██║   ██║██║  ███╗█████╗╚████╔╝  ╚████╔╝    \n", Colors.white_to_green, interval=0.000)
     Write.Print("                                     ██║     ██║   ██║██║   ██║╚════╝ ╚██╔╝    ╚██╔╝      \n", Colors.white_to_green, interval=0.000)
-    Write.Print(f" >> v{THIS_VERSION}                           ███████╗╚██████╔╝╚██████╔╝        ██║      ██║      \n", Colors.white_to_green, interval=0.000)
+    Write.Print(f" >> created by waltta#6821           ███████╗╚██████╔╝╚██████╔╝        ██║      ██║      \n", Colors.white_to_green, interval=0.000)
     Write.Print(" >> discord.gg/FWVnT9tyvE            ╚══════╝ ╚═════╝  ╚═════╝         ╚═╝      ╚═╝       \n", Colors.white_to_green, interval=0.000)
-    Write.Print("════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════", Colors.white_to_green, interval=0.000)
+    Write.Print("────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────", Colors.white_to_green, interval=0.000)
     print(f'''{Fore.GREEN}'''.replace('>>', f'{Fore.GREEN}>>{Fore.WHITE}') + f'''
 {Fore.WHITE}[{Fore.GREEN}1{Fore.RESET}{Fore.WHITE}]{Fore.RESET} Server Joiner   {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}9{Fore.RESET}{Fore.WHITE}]{Fore.RESET}  Channel Spammer   {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}17{Fore.RESET}{Fore.WHITE}]{Fore.RESET} PC Rat{Fore.RESET}              {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}25{Fore.RESET}{Fore.WHITE}]{Fore.RESET} Token Generator{Fore.RESET}
 {Fore.WHITE}[{Fore.GREEN}2{Fore.RESET}{Fore.WHITE}]{Fore.RESET} Server Leaver   {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}10{Fore.RESET}{Fore.WHITE}]{Fore.RESET} DM Spammer        {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}18{Fore.RESET}{Fore.WHITE}]{Fore.RESET} About/Activity{Fore.RESET}      {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}26{Fore.RESET}{Fore.WHITE}]{Fore.RESET} Nitro Generator{Fore.RESET}
@@ -281,7 +281,7 @@ def spammer():
 {Fore.WHITE}[{Fore.GREEN}6{Fore.RESET}{Fore.WHITE}]{Fore.RESET} Server MassDM   {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}14{Fore.RESET}{Fore.WHITE}]{Fore.RESET} NickName Changer  {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}22{Fore.RESET}{Fore.WHITE}]{Fore.RESET} Group Spammer{Fore.RESET}       {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}30{Fore.RESET}{Fore.WHITE}]{Fore.RESET} About{Fore.RESET}
 {Fore.WHITE}[{Fore.GREEN}7{Fore.RESET}{Fore.WHITE}]{Fore.RESET} Account Nuker   {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}15{Fore.RESET}{Fore.WHITE}]{Fore.RESET} Webhook Spammer   {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}23{Fore.RESET}{Fore.WHITE}]{Fore.RESET} Auto Login{Fore.RESET}          {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}31{Fore.RESET}{Fore.WHITE}]{Fore.RESET}{Fore.GREEN} THREADS{Fore.RESET}
 {Fore.WHITE}[{Fore.GREEN}8{Fore.RESET}{Fore.WHITE}]{Fore.RESET} Server Nuker    {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}16{Fore.RESET}{Fore.WHITE}]{Fore.RESET} VC Spammer        {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}24{Fore.RESET}{Fore.WHITE}]{Fore.RESET} DM Deleter{Fore.RESET}          {Fore.BLACK}|{Fore.RESET}{Fore.WHITE}[{Fore.GREEN}32{Fore.RESET}{Fore.WHITE}]{Fore.RESET}{Fore.GREEN} EXIT{Fore.RESET}''')
-    Write.Print("════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════", Colors.white_to_green, interval=0.000)
+    Write.Print("────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────", Colors.white_to_green, interval=0.000)
     choice = input(f'\x1B[1m[{Fore.GREEN}>>{Fore.RESET}] Choice : \x1B[1m ')
 
 
@@ -403,7 +403,7 @@ Token Onliner is in the Paid Version of LOG-YY Nuker!\nIf You Are Wanting to Pur
 [\x1b[95m>>\x1b[95m\x1B[37m] Choice : """)
 
         if gh in ['01','1']:
-            webbrowser.open('https://gangnuker.com')
+            webbrowser.open('https://github.com/waltta')
         elif gh in ['02','2']:
             exit = spammer()
         else:
