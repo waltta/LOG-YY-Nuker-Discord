@@ -1,4 +1,4 @@
-![LOG-YY-Nuker Banner2](https://user-images.githubusercontent.com/109160786/182344001-a5220958-21db-4b88-a004-1a09b8f5b297.png)
+![LOG-YY-Nuker Banner2](https://user-images.githubusercontent.com/109160786/182352472-ab360356-513a-4243-851d-aa7593ab323b.png)
 
 ---
 
@@ -28,7 +28,11 @@
 * ` Have FUN !`
 
 ## Main Theme
-> ![log-yy main_menu](https://user-images.githubusercontent.com/109160786/182341685-12cf7f94-79ac-444e-9cd7-8a200a521c39.jpg) 
+<p align="center">
+   <img alt="LogYY-Menu" src="https://user-images.githubusercontent.com/109160786/182341685-12cf7f94-79ac-444e-9cd7-8a200a521c39.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+ <img alt="LogYY-Update" src="https://user-images.githubusercontent.com/109160786/182350403-2d3ecf60-76c7-4f27-b4af-4dcd2a26f943.jpg" width="45%">
+</p>
 
 
 ## **★    PROXIES SCRAPING     ★**
