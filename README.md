@@ -24,7 +24,7 @@
 **_____________________________________________________!!!!!!!    PROXY LIST (DONT TOUCH)     !!!!!!!____________________________________________________________________________________________**
 
 
-### <a id="code-example"></a>💻〢Proxie Supoort Example:
+### <a id="code-example"></a>💻〢Proxie SC Example:
 
 ```py
     def fetchProxies(url, custom_regex):
