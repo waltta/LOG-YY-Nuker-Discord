@@ -1,4 +1,4 @@
-![LOG-YY-Nuker Banner](https://user-images.githubusercontent.com/109160786/182343181-f588ae0a-1d41-4085-a255-e31f735d686d.png)
+![LOG-YY-Nuker Banner2](https://user-images.githubusercontent.com/109160786/182343627-04bd9a8b-f52a-44c5-9704-a62c1a5fa969.png)
 
 
 
